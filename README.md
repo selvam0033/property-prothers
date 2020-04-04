@@ -1,2 +1,2 @@
 # RenoPropertyBrothers
-RenoPropertyBrothers
+reno-property-brothers
